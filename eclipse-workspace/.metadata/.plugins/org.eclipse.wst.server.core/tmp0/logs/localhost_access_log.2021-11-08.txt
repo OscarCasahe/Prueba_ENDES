@@ -1,0 +1,8 @@
+127.0.0.1 - - [08/Nov/2021:17:56:48 +0100] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [08/Nov/2021:17:56:49 +0100] "GET /EditarPayments/ HTTP/1.1" 500 1589
+127.0.0.1 - - [08/Nov/2021:17:59:32 +0100] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [08/Nov/2021:17:59:32 +0100] "GET /EditarPayments/WEB-INF/view/index.jsp HTTP/1.1" 404 610
+127.0.0.1 - - [08/Nov/2021:17:59:48 +0100] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [08/Nov/2021:17:59:49 +0100] "GET /EditarPayments/WEB-INF/view/index.jsp HTTP/1.1" 404 610
+0:0:0:0:0:0:0:1 - - [08/Nov/2021:18:00:44 +0100] "GET /EditarPayments/WEB-INF/view/index.jsp HTTP/1.1" 404 610
+0:0:0:0:0:0:0:1 - - [08/Nov/2021:18:05:02 +0100] "GET /EditarPayments/ HTTP/1.1" 500 1589

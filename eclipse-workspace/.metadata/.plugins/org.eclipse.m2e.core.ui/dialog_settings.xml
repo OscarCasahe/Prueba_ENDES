@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Users\Osdaenju\eclipse-workspace\ParaPracticar\src\main\java\Singleton\Main.java"/>
+			<item value="D:\Users\Osdaenju\eclipse-workspace\ParaPracticar\src\main\java\FactoryPizzeria\FactoryPizzas.java"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Materiales\DESARROLLO\Bitacora"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Materiales\DESARROLLO\DAO"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Materiales\DESARROLLO\EJEMPLO ANIMALES"/>
+			<item value="D:\Users\Osdaenju\eclipse-workspace\.metadata"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Repos\Desarrollo_Web_Entorno_Servidor\U3B_Programación_de_servidor_en_Java_II\JSTL\EditarClientes"/>
+			<item value="D:\Users\Osdaenju\eclipse-workspace\TablaPayments\src\main\java\org\iesalixar\servidor\dao\DAOPayments.java"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Repos\Desarrollo_Web_Entorno_Servidor\U3A_Programación_de_Servidor_en_Java\ServletsYJsp\TablaClientesBD"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Repos\Desarrollo_Web_Entorno_Servidor\U3B_Programación_de_servidor_en_Java_II\Filtros\FiltersWithAnnotations"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Repos\Desarrollo_Web_Entorno_Servidor\U3B_Programación_de_servidor_en_Java_II\Filtros\FiltersWithAnnotations\src"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Desarrollo_Web_Entorno_Servidor\U3A_Programación_de_servidor_en_Java_I\U3A_Tarea1"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Repos\Desarrollo_Web_Entorno_Servidor\U3B_Programación_de_servidor_en_Java_II\Filtros\FiltersInDD"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Repos\Desarrollo_Web_Entorno_Servidor\U2_Patrones_de_diseño_comunes\Logs\Log4jMavenExampleProject"/>
+			<item value="C:\Users\Osdaenju\Desktop\DAW\Materiales\DESARROLLO\Bitacora"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="ProductLineBBDD"/>
+			<item value="TablaPayments"/>
+			<item value="Tren"/>
+			<item value="U3A_Tarea1"/>
+			<item value="Matriculacion"/>
+			<item value="LoginAndLogout"/>
+			<item value="Formularios"/>
+			<item value="Saludo"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="ProductLineBBDD"/>
+			<item value="TablaPayments"/>
+			<item value="Tren"/>
+			<item value="U3A_Tarea1"/>
+			<item value="Matriculacion"/>
+			<item value="LoginAndLogout"/>
+			<item value="Formularios"/>
+			<item value="Saludo"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
